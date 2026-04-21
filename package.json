@@ -1,0 +1,24 @@
+{
+  "name": "@selfmadesystem/made-by-sms",
+  "version": "1.0.0",
+  "description": "Made by me :)",
+  "author": {
+    "name": "SelfMadeSystem",
+    "email": "npm@shoghisimon.ca",
+    "url": "https://shoghisimon.ca"
+  },
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SelfMadeSystem/made-by-sms.git"
+  },
+  "keywords": [
+    "made-by-sms",
+    "selfmadesystem",
+    "npm",
+    "package",
+    "badge"
+  ],
+  "license": "MIT",
+  "type": "module"
+}
