@@ -1,6 +1,6 @@
 {
   "name": "@selfmadesystem/made-by-sms",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Made by me :)",
   "author": {
     "name": "SelfMadeSystem",
@@ -8,9 +8,14 @@
     "url": "https://shoghisimon.ca"
   },
   "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/SelfMadeSystem/made-by-sms.git"
+    "url": "git+https://github.com/SelfMadeSystem/made-by-sms.git"
   },
   "keywords": [
     "made-by-sms",
